@@ -1,0 +1,23 @@
+# Build output
+target/
+*.class
+*.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Markdown documentation files
+*.md
+!README.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven
+.m2/
+
+# Logs
+*.log

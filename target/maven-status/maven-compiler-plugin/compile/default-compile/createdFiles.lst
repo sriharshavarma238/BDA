@@ -1,0 +1,15 @@
+com\sga\library\exception\GlobalExceptionHandler.class
+com\sga\library\dto\BookForm.class
+com\sga\library\controller\HomeController.class
+com\sga\library\exception\ResourceNotFoundException.class
+com\sga\library\controller\BookController.class
+com\sga\library\service\AuthorService.class
+com\sga\library\entity\Book.class
+com\sga\library\controller\AuthorController.class
+com\sga\library\repository\AuthorRepository.class
+com\sga\library\repository\BookAuthorView.class
+com\sga\library\entity\Author.class
+com\sga\library\service\BookService.class
+com\sga\library\config\DataSeeder.class
+com\sga\library\LibraryApplication.class
+com\sga\library\repository\BookRepository.class
